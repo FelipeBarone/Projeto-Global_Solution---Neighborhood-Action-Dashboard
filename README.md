@@ -11,6 +11,8 @@ Rafael de Almeida Irineu – RM 574613
 
 DISCLAIMER: O PROJETO É O ARQUIVO ProjetoGS.py, os outros arquivos são PROPOSTAS utilizando a IA Gemini para uma interface mais user-friendly.
 
+Vídeo: https://youtu.be/dYUJo_vNz4c
+
 Esse projeto foi criado com a mentalidade de realizar um CRUD, que consiste nas nomenclaturas CREATE, READ, UPDATE e DELETE. Sendo o básico para o estudante de computação que deseja criar seu primeiro banco de dados. Utilizamos essa inspiração dado ao fato que o pedido do projeto solicitava que criássemos chamados, lêssemos e atualizássemos o mesmo.
 
 O código pode ser divido em três estruturas para compreende-lo de forma mais simples:
