@@ -126,7 +126,9 @@ Por fim, a nossa última função:
 def primeira_vez(): Essa função verifica se o arquivo existe no computador do usuário ao executar o programa pela primeira vez, após essa verificação, caso o arquivo exista ela apenas retorna e nada ocorre.
 Caso o arquivo não exista ou tenha sido deletado, ela cria os cenários necessários pedidos no exercício:
 
- # Cenários de Água
+Cenários Pré-definidos:
+    
+    #Cenários de Água
     criar_chamado("Água", 123458, "Carlos Eduardo", "333.444.555-67", "Vazamento de água limpa na calçada", "Tatuapé", "12/11/2026", "Aberto")
     criar_chamado("Água", 123459, "Fernanda Lima", "444.555.666-78", "Baixa pressão de água nas torneiras", "Ipiranga", "13/11/2026", "Andamento")
     criar_chamado("Água", 123460, "Roberto Alves", "555.666.777-89", "Água saindo com coloração turva", "Santana", "13/11/2026", "Aberto")
